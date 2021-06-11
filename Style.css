@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-size: 30;
+    background-color: aqua;
+}
+.navbar-inverse{
+    top: 0;
+    position: sticky;
+    z-index: 99999    
+}
